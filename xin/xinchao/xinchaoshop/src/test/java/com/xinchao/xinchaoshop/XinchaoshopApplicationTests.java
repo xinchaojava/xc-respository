@@ -8,7 +8,7 @@ class XinchaoshopApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("xin");
+        System.out.println("xin"+"chao");
     }
 
 }
